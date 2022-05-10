@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>next-ts-starter</h1>
+  <h1>🎉 next-ts-starter</h1>
   <p>Unopinionated Next.js + TypeScript starter template.</p>
   <p>Made by <a href="https://anggihseptiawan.space">Anggih Septiawan</a></p>
 </div>
