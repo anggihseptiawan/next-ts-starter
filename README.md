@@ -11,7 +11,7 @@ All features in this starter template :
 - ✨ Next.Js v.12
 - 🎉 React v.18
 - ⚡ TypeScript
-- 🧐 Eslint -- for find and fix problems in your code & also enforce code style
+- 🧐 Eslint -- Find and fix problems in your code & also enforce code style
 - 🍻 Prettier -- Magicly format your code
 - 🐺 Husky -- Git hooks for prevent bad code ships into production
 
