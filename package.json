@@ -1,6 +1,10 @@
 {
   "name": "next-ts-starter",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "Unopinionated Next.js + TypeScript starter template.",
+  "repository": "https://github.com/anggihseptiawan/next-ts-starter",
+  "author": "Anggih Septiawan <anggihseptiawan@gmail.com>",
+  "license": "Unlicense",
   "private": true,
   "scripts": {
     "dev": "next dev",
