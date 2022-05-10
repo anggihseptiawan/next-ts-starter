@@ -21,6 +21,7 @@ Use yarn or npm
 
 ```bash
 npx create-next-app -e https://github.com/anggihseptiawan/next-ts-starter project-name
+# or
 yarn create next-app -e https://github.com/anggihseptiawan/next-ts-starter project-name
 ```
 
