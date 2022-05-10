@@ -1,34 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1>🔋 next-ts-starter</h1>
+  <p>Unopinionated Next.js + TypeScript starter.</p>
+  <p>Made by <a href="https://anggihseptiawan.space">Anggih Septiawan</a></p>
+</div>
 
-## Getting Started
+## Features
 
-First, run the development server:
+All features in this starter template :
+
+- ✨ Next.Js v.12
+- 🎉 React v.18
+- ⚡ TypeScript
+- 🧐 Eslint -- for find and fix problems in your code & also enforce code style
+- 🍻 Prettier -- Magicly format your code
+- 🐺 Husky -- Git hooks for prevent bad code ships into production
+
+## How to use this template
+
+Use yarn or npm
 
 ```bash
-npm run dev
+npx create-next-app -e https://github.com/anggihseptiawan/next-ts-starter project-name
+yarn create next-app -e https://github.com/anggihseptiawan/next-ts-starter project-name
+```
+
+Install all dependencies:
+
+```bash
+yarn
 # or
+npm install
+```
+
+Run development server
+
+```bash
 yarn dev
+# or
+npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Lint your code
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```bash
+yarn lint
+# or
+npm run lint
+```
+
+Format your code
+
+```bash
+yarn format
+# or
+npm run format
+```
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+To learn more about this tech stack :
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [TypeScipt](https://www.typescriptlang.org/) - TypeScript official site.
+- [Prettier](https://prettier.io/) - Prettier official site.
+- [ESLint](https://eslint.org/) - ESLint official site.
+- [Husky](https://typicode.github.io/husky/#/) - ESLint official docs.
