@@ -65,8 +65,8 @@ npm run format
 
 To learn more about this tech stack :
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Next.js Documentation](https://nextjs.org/docs) - Learn about Next.js features and API.
 - [TypeScipt](https://www.typescriptlang.org/) - TypeScript official site.
 - [Prettier](https://prettier.io/) - Prettier official site.
 - [ESLint](https://eslint.org/) - ESLint official site.
-- [Husky](https://typicode.github.io/husky/#/) - ESLint official docs.
+- [Husky](https://typicode.github.io/husky/#/) - Husky official docs.
